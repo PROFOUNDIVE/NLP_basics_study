@@ -34,10 +34,10 @@
 
 
 ## 멤버
-- [강민석] ()
-- [박은지] ()
-- [박현아] ()
-- [임선우] ()
+- [강민석](https://github.com/myeolinmalchi)
+- [박은지] (Github)
+- [박현아] (Github)
+- [임선우] (Github)
 - [최현우](https://github.com/PROFOUNDIVE)
 
 #### 추가 학습자료
