@@ -21,12 +21,6 @@
  - 8주차(11.24.~11.30.) - ch10. Large Language Models (LLM. GPT4와 같은 대형 언어 모델 이해)
  - 9주차(12.01.~12.07.) - ch11. Masked Language Models (마스킹 기법으로 문맥 정보 활용)
 
-#### 추가 학습자료
-- ch13. Machine Translation (기계 번역에 모델을 적용하는 법) (Application)
-- ch15. Chatbots and Dialogue systems (챗봇 및 대화 시스템, 유저 인터랙션에 대해) (Application)
-- ch12. Model Alignment, Prompting, and In-Context Learning (모델의 활용도 높이기, 프롬프트 엔지니어링)
-- ch14. Question Answering, Information Retrieval, and RAG (관련 정보 검색 및 정확도 있는 응답 생성법) (Application)
-
 +) 모집할 때 간단한 실습도 해본다고 했는데 시간 여건상 자율적으로 실습하되, 질문이 생기면 서로 질문하는 방향으로 가야 할 것 같아요
 
 ## 발표 내용
@@ -45,3 +39,9 @@
 - [박현아] ()
 - [임선우] ()
 - [최현우](https://github.com/PROFOUNDIVE)
+
+#### 추가 학습자료
+- ch13. Machine Translation (기계 번역에 모델을 적용하는 법) (Application)
+- ch15. Chatbots and Dialogue systems (챗봇 및 대화 시스템, 유저 인터랙션에 대해) (Application)
+- ch12. Model Alignment, Prompting, and In-Context Learning (모델의 활용도 높이기, 프롬프트 엔지니어링)
+- ch14. Question Answering, Information Retrieval, and RAG (관련 정보 검색 및 정확도 있는 응답 생성법) (Application)
