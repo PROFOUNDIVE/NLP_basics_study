@@ -6,22 +6,11 @@
  (시험기간 제외. 첫 발표 순서는 랜덤이고, 일정 조율 여부에 따라 대면/비대면 결정.)
 3. 매주 발표마다 발표자 제외 인당 적어도 하나의 질문은 필수
 
++) 모집할 때 간단한 실습도 해본다고 했는데 시간 여건상 자율적으로 실습하되, 질문이 생기면 서로 질문하는 방향으로 가야 할 것 같아요
+
 ### 스터디 자료
 - Speech and Language Processing (3/e) - Dan Jurafsky and James H. Martin 중 몇 개의 챕터
   ([pdf](https://web.stanford.edu/~jurafsky/slp3/))
-
-#### 진도 타임라인 (시험기간&시험 전 주 제외)
- - 1주차(09.22.~09.28.) - ch1. Introduction (소개)
- - 2주차(09.29.~10.05.) - ch3. N-Gram Language Models (통계적 언어 모델의 기본 개념)
- - 3주차(10.06.~10.12.) - ch4. Naive Bayes, Text Classification, and Sentiment (간단한 텍스트 분류 알고리즘)
- - 4주차(10.27.~11.02) - ch6. Vector Semantics and Embeddings (단어를 수치 벡터로 표현, 임베딩 개념)
- - 5주차(11.03.~11.09.) - ch7. Neural Networks (딥러닝 기본)
- - 6주차(11.10.~11.16.) - ch8. RNNs and LSTMs (순차 데이터 처리를 위한 모델들)
- - 7주차(11.17.~11.23.)- ch9. Transformers (최신 NLP의 핵심 모델)
- - 8주차(11.24.~11.30.) - ch10. Large Language Models (LLM. GPT4와 같은 대형 언어 모델 이해)
- - 9주차(12.01.~12.07.) - ch11. Masked Language Models (마스킹 기법으로 문맥 정보 활용)
-
-+) 모집할 때 간단한 실습도 해본다고 했는데 시간 여건상 자율적으로 실습하되, 질문이 생기면 서로 질문하는 방향으로 가야 할 것 같아요
 
 ## 발표 내용
 | Ch.  | Title(Link)                                              | Presenter |
@@ -39,6 +28,17 @@
 - [박현아] (Github)
 - [임선우] (Github)
 - [최현우](https://github.com/PROFOUNDIVE)
+
+#### 진도 타임라인 (시험기간&시험 전 주 제외)
+ - 1주차(09.22.~09.28.) - ch1. Introduction (소개)
+ - 2주차(09.29.~10.05.) - ch3. N-Gram Language Models (통계적 언어 모델의 기본 개념)
+ - 3주차(10.06.~10.12.) - ch4. Naive Bayes, Text Classification, and Sentiment (간단한 텍스트 분류 알고리즘)
+ - 4주차(10.27.~11.02) - ch6. Vector Semantics and Embeddings (단어를 수치 벡터로 표현, 임베딩 개념)
+ - 5주차(11.03.~11.09.) - ch7. Neural Networks (딥러닝 기본)
+ - 6주차(11.10.~11.16.) - ch8. RNNs and LSTMs (순차 데이터 처리를 위한 모델들)
+ - 7주차(11.17.~11.23.)- ch9. Transformers (최신 NLP의 핵심 모델)
+ - 8주차(11.24.~11.30.) - ch10. Large Language Models (LLM. GPT4와 같은 대형 언어 모델 이해)
+ - 9주차(12.01.~12.07.) - ch11. Masked Language Models (마스킹 기법으로 문맥 정보 활용)
 
 #### 추가 학습자료
 - ch13. Machine Translation (기계 번역에 모델을 적용하는 법) (Application)
