@@ -13,7 +13,7 @@
   ([pdf](https://web.stanford.edu/~jurafsky/slp3/))
 
 ## 발표 내용
-| Ch.  | Title(Link)                                              | Presenter |
+| Chapter  | Title(Link)                                              | Presenter |
 |------|----------------------------------------------------------|-----------|
 | Ch2. | [N-gram Language Model]()                                    | 강민석    |
 | Ch4. | [Naive Bayes, Text classification, and Sentiment analysis]() | 최현우    |
