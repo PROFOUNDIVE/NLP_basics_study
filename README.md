@@ -1,1 +1,47 @@
-# NLP_basics_study
+# NLP 기초 스터디
+
+## 규칙
+1. 스터디는 기본적으로 자율적으로 공부하되, 질문이 생기면 Discord 스터디 채팅방에서 자유롭게 질의응답하는 것을 전제로 함
+2. 2주차부터 매주 금요일(조율 가능)마다 모여서 해당 주에 배운 챕터의 PPT(또는 요약본&설명)를 발표하고, 서로 질문하는 시간을 가짐
+ (시험기간 제외. 첫 발표 순서는 랜덤이고, 일정 조율 여부에 따라 대면/비대면 결정.)
+3. 매주 발표마다 발표자 제외 인당 적어도 하나의 질문은 필수
+
+### 스터디 자료
+- Speech and Language Processing (3/e) - Dan Jurafsky and James H. Martin 중 몇 개의 챕터
+  ([pdf](https://web.stanford.edu/~jurafsky/slp3/))
+
+#### 진도 타임라인 (시험기간&시험 전 주 제외)
+ - 1주차(09.22.~09.28.) - ch1. Introduction (소개)
+ - 2주차(09.29.~10.05.) - ch3. N-Gram Language Models (통계적 언어 모델의 기본 개념)
+ - 3주차(10.06.~10.12.) - ch4. Naive Bayes, Text Classification, and Sentiment (간단한 텍스트 분류 알고리즘)
+ - 4주차(10.27.~11.02) - ch6. Vector Semantics and Embeddings (단어를 수치 벡터로 표현, 임베딩 개념)
+ - 5주차(11.03.~11.09.) - ch7. Neural Networks (딥러닝 기본)
+ - 6주차(11.10.~11.16.) - ch8. RNNs and LSTMs (순차 데이터 처리를 위한 모델들)
+ - 7주차(11.17.~11.23.)- ch9. Transformers (최신 NLP의 핵심 모델)
+ - 8주차(11.24.~11.30.) - ch10. Large Language Models (LLM. GPT4와 같은 대형 언어 모델 이해)
+ - 9주차(12.01.~12.07.) - ch11. Masked Language Models (마스킹 기법으로 문맥 정보 활용)
+
+#### 추가 학습자료
+- ch13. Machine Translation (기계 번역에 모델을 적용하는 법) (Application)
+- ch15. Chatbots and Dialogue systems (챗봇 및 대화 시스템, 유저 인터랙션에 대해) (Application)
+- ch12. Model Alignment, Prompting, and In-Context Learning (모델의 활용도 높이기, 프롬프트 엔지니어링)
+- ch14. Question Answering, Information Retrieval, and RAG (관련 정보 검색 및 정확도 있는 응답 생성법) (Application)
+
++) 모집할 때 간단한 실습도 해본다고 했는데 시간 여건상 자율적으로 실습하되, 질문이 생기면 서로 질문하는 방향으로 가야 할 것 같아요
+
+## 발표 내용
+| No.  | Title(Link)                                              | Presenter |
+|------|----------------------------------------------------------|-----------|
+| Ch2. | [N-gram Language Model]()                                    | 강민석    |
+| Ch4. | [Naive Bayes, Text classification, and Sentiment analysis]() | 최현우    |
+|      |                                                          |           |
+
+## 질문
+
+
+## 멤버
+- [강민석] ()
+- [박은지] ()
+- [박현아] ()
+- [임선우] ()
+- [최현우](https://github.com/PROFOUNDIVE)
