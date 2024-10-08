@@ -30,7 +30,7 @@
 +) 모집할 때 간단한 실습도 해본다고 했는데 시간 여건상 자율적으로 실습하되, 질문이 생기면 서로 질문하는 방향으로 가야 할 것 같아요
 
 ## 발표 내용
-| No.  | Title(Link)                                              | Presenter |
+| Ch.  | Title(Link)                                              | Presenter |
 |------|----------------------------------------------------------|-----------|
 | Ch2. | [N-gram Language Model]()                                    | 강민석    |
 | Ch4. | [Naive Bayes, Text classification, and Sentiment analysis]() | 최현우    |
