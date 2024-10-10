@@ -20,8 +20,7 @@ P(w_{1:n}) &= P(w_1)P(w_2|w_1)P(w_3|w_{1:2})...P(w_n|w_{1:n-1}) \\
 위 등식에서 $P(w_n|w_{1:n-1})$은 처음에 구하려던 확률과 같다. 즉, 여전히 계산이 어렵다.
 
 ### 3.1.1 The Markov assumption
-전체 history($h$)를 계산하는 대신,
-**마지막 N개의 단어**만을 사용하여 확률을 계산하는 방법이다.
+전체 history($h$)를 계산하는 대신, **마지막 N개의 단어**만을 사용하여 확률을 계산하는 방법이다.
 
 $$
 P(w_n|w_{1:n-1}) \approx P(w_n|w_{n-N+1:n-1})
@@ -29,13 +28,14 @@ $$
 
 ### 3.1.2 How to estimate probabilities: MLE
 특정 n-gram의 등장 빈도를 해당 맥락($h$)의 전체 빈도로 나눠서 확률을 구할 수 있다.
-- digram: $P(w_n|w_{n-1}) = \frac {C(w_{n-1}w_n)} {C(w_{n-1})}$
+- bigram: $P(w_n|w_{n-1}) = \frac {C(w_{n-1}w_n)} {C(w_{n-1})}$
 - n-gram: $P(w_n|w_{n-N+1:n-1})=\frac {C(w_{n-N+1}w_n)} {C(w_{n-N+1:n-1})}$
+
 ### 3.1.3 Dealing with scale in large n-gram models
 
 #### Log Probabilites
 확률(0~1)을 계속해서 곱하면 **numerical underflow** 발생 가능
-➡️ **log space**에서 확률 계산하여 값이 너무 작아지지 않게 함.
+➡️  **log space**에서 확률 계산하여 값이 너무 작아지지 않게 함.
 
 #### Longer context
 large n-gram datasets, Infini-gram, quantization, pruning, ...
