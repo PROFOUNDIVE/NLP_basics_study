@@ -15,7 +15,7 @@
 ## 발표 내용
 | Chapter  | Title(Link)                                              | Presenter |
 |------|----------------------------------------------------------|-----------|
-| Ch2. | [N-gram Language Model](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch2.%20N-gram%20Language%20Model.md) | 강민석    |
+| Ch3. | [N-gram Language Model](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch3.%20N-gram%20Language%20Model.md) | 강민석    |
 | Ch4. | [Naive Bayes, Text classification, and Sentiment analysis]() | 최현우    |
 |      |                                                          |           |
 
