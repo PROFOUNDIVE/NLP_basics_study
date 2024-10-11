@@ -143,32 +143,12 @@ But it just slightly changes the performance, we don't adopt it.
 
 ## 4.3. Worked example
 An example for computing naive Bayes classifier
-![image.png](../assets/image_1728567730868_0.png)
-![image.png](../assets/image_1728567760779_0.png)
+![](../assets/ch4/fig1.png)
+![](../assets/ch4/fig2.png)
 
 
 Pseudo code of add-1(Laplace) smoothing NB
-```latex
-**function** Train Naive Bayes(D, C) **returns** $V, \log P(c), \log P(w \mid c)$
-**for each** class $c \in C \quad$ # Calculate $P(c)$ terms  
-$\mathrm{N}_{d o c}=$ number of documents in D  
-$\mathrm{N}_{c}=$ number of documents from D in class c  
-logprior $[\mathrm{c}] \leftarrow \log \frac{N_{c}}{N_{d o c}}$  
-$V \leftarrow$ vocabulary of D  
-bigdoc $[c] \leftarrow$ **append**(d) **for** $\mathrm{d} \in \mathrm{D}$ **with** class $c$  
-**for each** word $w$ in V # Calculate $P(w \mid c)$ terms  
-$\text{count}(w, c) \leftarrow \#$ of occurrences of $w$ in bigdoc $[c]$  
-loglikelihood $[\mathrm{w}, \mathrm{c}] \leftarrow \log \frac{\text{count}(w, c)+1}{\sum_{w^{\prime} \text { in } V}\left(\text{count}\left(w^{\prime}, c\right)+1\right)}$  
-$\mathbf{r n}$ logprior, loglikelihood, $V$  
-**function** Test NAIVE BAYES(testdoc, logprior, loglikelihood, $\mathrm{C}, \mathrm{V}$ ) **returns** best $c$  
-**for each** class $c \in C$  
-sum $[c] \leftarrow$ logprior $[c]$  
-**for each** position $i$ in testdoc  
-word $\leftarrow$ testdoc $[i]$  
-**if** word $\in V$  
-  $\text{sum}[c] \leftarrow \text{sum}[c]+$ loglikelihood $[$ word, $c]$  
-return $\text{argmax}_{c} \text{sum}[c]$
-```
+![](../assets/ch4/fig3.png)
 
 ## 4.6. Naive Bayes as a Language model
 Since the likelihood features can assign a probability to each word $P(\text{word}\mid c)$ , the model also assigns a probability to each sentence:
@@ -176,7 +156,7 @@ Since the likelihood features can assign a probability to each word $P(\text{wor
 $$P(s \mid c)=\prod_{i \in \text { positions }} P\left(w_{i} \mid c\right)$$
 
 example
-![image.png](../assets/image_1728570945734_0.png){:height 343, :width 689}
+![](../assets/ch4/fig4.png)
 
 ## 4.7. Evaluation: Precision, Recall, $F$ -measure
 
@@ -192,7 +172,7 @@ system output labels: 결과값. expected labels
 
 gold standard labels: 정답. human labels  
 
-![](https://cdn.mathpix.com/cropped/2024_10_06_fbf3796c5fa5e5bfe9a7g-12.jpg?height=429&width=1167&top_left_y=368&top_left_x=487)
+![](../assets/ch4/fig5.png)
 confusion matrix  
 
 $$\text { Precision }=\frac{\text { true positives }}{\text { true positives }+ \text { false positives }}$$
@@ -220,8 +200,8 @@ But how can we evalute then?
 We can't adapt precision, recall directly.  
 
 
-![image.png](../assets/image_1728572650857_0.png)
+![](../assets/ch4/fig6.png)
 **Simply we think of precisions and recalls for each classes.**  
 
 And there are two ways of computing precisions/recalls
-![image.png](../assets/image_1728572834258_0.png)
+![](../assets/ch4/fig7.png)
