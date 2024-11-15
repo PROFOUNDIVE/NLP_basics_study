@@ -17,16 +17,18 @@
 |------|----------------------------------------------------------|-----------|
 | Ch3. | [N-gram Language Model](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch3.%20N-gram%20Language%20Model.md) | 강민석    |
 | Ch4. | [Naive Bayes, Text classification, and Sentiment analysis](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch4.%20Naive%20Bayes%2C%20text%20classification%2C%20and%20sentiment.md) | 최현우    |
-|      |                                                          |           |
+| Ch6. | [Vector Semantics and Embeddings](link) | 박현아 |
+| Ch7. | [Neural Networks](link) | 박은지 |
+| Ch8. | [RNNs and LSTMs](link) | 임선우 |
 
 ## 질문
 
 
 ## 멤버
 - [강민석](https://github.com/myeolinmalchi)
-- [박은지] (Github)
-- [박현아] (Github)
-- [임선우] (Github)
+- [박은지] (https://github.com/drms-creator)
+- [박현아] (https://github.com/nandarina)
+- [임선우] (https://github.com/SeonWoo05)
 - [최현우](https://github.com/PROFOUNDIVE)
 
 #### 진도 타임라인 (시험기간&시험 전 주 제외)
