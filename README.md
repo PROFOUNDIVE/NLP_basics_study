@@ -26,9 +26,9 @@
 
 ## 멤버
 - [강민석](https://github.com/myeolinmalchi)
-- [박은지] (https://github.com/drms-creator)
-- [박현아] (https://github.com/nandarina)
-- [임선우] (https://github.com/SeonWoo05)
+- [박은지](https://github.com/drms-creator)
+- [박현아](https://github.com/nandarina)
+- [임선우](https://github.com/SeonWoo05)
 - [최현우](https://github.com/PROFOUNDIVE)
 
 #### 진도 타임라인 (시험기간&시험 전 주 제외)
