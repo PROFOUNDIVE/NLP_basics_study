@@ -17,9 +17,9 @@
 |------|----------------------------------------------------------|-----------|
 | Ch3. | [N-gram Language Model](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch3.%20N-gram%20Language%20Model.md) | 강민석    |
 | Ch4. | [Naive Bayes, Text classification, and Sentiment analysis](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch4.%20Naive%20Bayes%2C%20text%20classification%2C%20and%20sentiment.md) | 최현우    |
-| Ch6. | [Vector Semantics and Embeddings](link) | 박현아 |
-| Ch7. | [Neural Networks](link) | 박은지 |
-| Ch8. | [RNNs and LSTMs](link) | 임선우 |
+| Ch6. | [Vector Semantics and Embeddings](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch6.%20Vector%20Semantics%20and%20Embeddings.pptx) | 박현아 |
+| Ch7. | [Neural Networks](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch7.%20Neural%20Networks.pdf) | 박은지 |
+| Ch8. | [RNNs and LSTMs](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch8.%20RNNs%20and%20LSTMs.pptx) | 임선우 |
 
 ## 질문
 
