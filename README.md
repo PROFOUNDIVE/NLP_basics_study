@@ -20,11 +20,16 @@
 | Ch6. | [Vector Semantics and Embeddings](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch6.%20Vector%20Semantics%20and%20Embeddings.pptx) | 박현아 |
 | Ch7. | [Neural Networks](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch7.%20Neural%20Networks.pdf) | 박은지 |
 | Ch8. | [RNNs and LSTMs](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch8.%20RNNs%20and%20LSTMs.pptx) | 임선우 |
+| Ch9 | [Transformers] | 박현아 |
+| Ch10. | [Large Language Models] | 임선우 |
+| Ch11. | [Masked Language Models] | 강민석 |
+| 칼럼 투고 | [Link] | 박은지 |
+| 스터디 발표 |  [Link] | 최현우 |
 
 ## 질문
 
 
-## 멤버
+## 멤버(Github)
 - [강민석](https://github.com/myeolinmalchi)
 - [박은지](https://github.com/drms-creator)
 - [박현아](https://github.com/nandarina)
