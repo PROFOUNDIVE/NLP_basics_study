@@ -21,7 +21,7 @@
 | Ch7. | [Neural Networks](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch7.%20Neural%20Networks.pdf) | 박은지 |
 | Ch8. | [RNNs and LSTMs](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch8.%20RNNs%20and%20LSTMs.pptx) | 임선우 |
 | Ch9 | [Transformers](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch9.The_Transformer.pptx) | 박현아 |
-| Ch10. | [Large Language Models] (https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch10.Large%20Language%20Models.pptx) | 임선우 |
+| Ch10. | [Large Language Models](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/Ch10.Large%20Language%20Models.pptx) | 임선우 |
 | Ch11. | [Masked Language Models] | 강민석 |
 | 칼럼 투고 | [믿바닥부터 뜯어보는 GPT](https://aidpnu.notion.site/13af0e0d194f80fd9beec00557c45a44?v=dc6dc33e35cb4b75908317827a6f72ae&p=404849a02a3c4c5fbef197b7c3b434b8&pm=c) | 박은지 |
 | 스터디 발표 |  [NLP 기초 스터디](https://github.com/PROFOUNDIVE/NLP_basics_study/blob/main/docs/NLP%20%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94.pptx) | 최현우 |
