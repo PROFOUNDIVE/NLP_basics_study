@@ -24,7 +24,7 @@
 | Ch10. | [Large Language Models] | 임선우 |
 | Ch11. | [Masked Language Models] | 강민석 |
 | 칼럼 투고 | [믿바닥부터 뜯어보는 GPT](https://aidpnu.notion.site/13af0e0d194f80fd9beec00557c45a44?v=dc6dc33e35cb4b75908317827a6f72ae&p=404849a02a3c4c5fbef197b7c3b434b8&pm=c) | 박은지 |
-| 스터디 발표 |  [Link] | 최현우 |
+| 스터디 발표 |  [NLP 기초 스터디] | 최현우 |
 
 ## 질문
 
